@@ -121,8 +121,11 @@ start analyzing the data.
 > create a new file (or tab) for the cleaned data, never
 > modify your original (raw) data.
 >
->After you go through this exercise, we'll discuss as a group what was wrong
+> After you go through this exercise, we'll discuss as a group what was wrong
 > with this data and how you would fix it. 
+> > ## Solution  
+> > The next module ("Formatting Problems") is a detailed solution to this exercise. 
+> {: .solution}
 {: .challenge}
 
 An excellent reference, in particular with regard to R scripting is
